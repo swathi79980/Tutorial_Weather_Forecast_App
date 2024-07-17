@@ -1,4 +1,4 @@
-# Tutorial_Weather_Forecast_App using openweather_api
+# Weather_Forecast_App using openweather_api
 In this Python project, I learned to make a python app that will collect weather information such as current temperature, pressure, humidity, wind speed, weather description and many others, of any place on the earth, using OpenWeatherMap API. This project is going to be very short and simple. One just need to invest 30 min to understand everything.This app can find these weather information in real time by just typing the city name. One will be able to get the data about only those places which are listed (or supported) by OpenWeatherMap website.
 
 Project Requirements:-
